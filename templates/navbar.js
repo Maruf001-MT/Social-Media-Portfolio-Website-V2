@@ -23,14 +23,14 @@ class HeaderTemplate extends HTMLElement {
                             </a>
 
                             <div class="navbar_works-link">
-                                <a href="/works/1" data-w-id="df70bfa9-fec6-06b6-1b9f-9402e5712ace" class="navbar_link w-inline-block">
+                                <a href="/works/strata" data-w-id="df70bfa9-fec6-06b6-1b9f-9402e5712ace" class="navbar_link w-inline-block">
                                     <div class="navbar_link-texts">
-                                        <div class="navbar_link-text _1">Work</div>
-                                        <div class="navbar_link-text _2">Work</div>
+                                        <div class="navbar_link-text _1">Works</div>
+                                        <div class="navbar_link-text _2">Works</div>
                                     </div>
                                 </a>
                                 <div class="navbar_works-number-wrap">
-                                    <div class="navbar_works-number">3</div>
+                                    <div class="navbar_works-number"></div>
                                 </div>
                             </div>
                             <a href="/blog/1" data-w-id="df70bfa9-fec6-06b6-1b9f-9402e5712ace" class="navbar_link w-inline-block">

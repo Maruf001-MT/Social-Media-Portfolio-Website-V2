@@ -7420,7 +7420,7 @@ blockquote {
 }
 
 .case-content_image-wrap {
-    aspect-ratio: 3 / 2;
+    aspect-ratio: 2 / 2;
     border-radius: var(--border-radius--medium);
     width: 100%;
     position: relative;
@@ -7467,7 +7467,7 @@ blockquote {
     grid-column-gap: 3rem;
     grid-row-gap: 3rem;
     grid-template-rows: auto;
-    grid-template-columns: .45fr 1fr;
+    grid-template-columns: 1.3fr 1fr 1fr;
     grid-auto-columns: 1fr;
     place-items: start stretch;
     display: grid;
